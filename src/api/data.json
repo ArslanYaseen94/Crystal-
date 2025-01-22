@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": "Crystal Golden (Amla, Reetha , Shikakai & Flax Seeds)",
+    "price": 390,
+    "img": "/image/crystalgolden.png",
+    "Nam": "C",
+    "des": "A natural hair care product enriched with Amla, Reetha, and Shikakai to promote healthy and shiny hair.",
+    "qu": 1,
+    "qut":"200ml",
+    "feature": "Crystal Golden Shampoo (Amla, Reetha, Shikakai & Flax Seeds)** combines the power of natural ingredients to promote healthy hair. Amla strengthens and nourishes the hair, Reetha cleanses gently, Shikakai soothes the scalp, and Flax Seeds add moisture, leaving the hair soft, shiny, and manageable. Perfect for those seeking a natural solution for hair care.",
+    "ing": "WATER/EAU, SODIUM LAURYL ETHER SULPHATE, SODIUM LAURYL SULPHATE 0%, COCAMIDO- PROPYL BETAINE, COCAMIDE DIETHANOLMINE HYDROLYZED PEARL LIQUID, CALCIUM CARBONATE PEARL POWDER, POLY QUTERNIUN 7, GLYCERIN, SILKY, VITAMIN E, SODIUM BENZOVIT, TETRASODIUM -EDTA, SODIUM CHLORIDE, LYNOLINE, PHARMALENE, FRAGARNCE/PERFUME."
+  ,
+    "use":"WET YOU HAIR, TAKE A SMART QUALITY OF SHAMPOO WORK LATHER.WAIT FOR A MINUTE RINSE & REPEAT."
+  },
+  {
+    "id": 2,
+    "name": "Crystal White (Coconut & Aloe Vera)",
+    "price": 390,
+    "img": "/image/crystalwhite.png",
+    "Nam": "C",
+    "des": "A moisturizing hair care product infused with Coconut and Aloe Vera to nourish and hydrate your hair.",
+    "qu": 1,
+    "qut":"200ml",
+    "feature": "Crystal White Shampoo (Coconut & Aloe Vera) combines the moisturizing benefits of coconut and the soothing properties of aloe vera. Coconut nourishes and hydrates the hair, promoting softness and shine, while aloe vera helps calm the scalp, reduce dandruff, and promote healthy hair growth. This shampoo is ideal for dry, irritated scalps and helps maintain smooth, manageable hair.",
+    "ing": "WATER/EAU, SODIUM LAURYL ETHER SULPHATE, SODIUM LAURYL SULPHATE 0%, COCAMIDO- PROPYL BETAINE, COCAMIDE DIETHANOLMINE HYDROLYZED PEARL LIQUID, CALCIUM CARBONATE PEARL POWDER, POLY QUTERNIUN 7, GLYCERIN, SILKY, VITAMIN E, SODIUM BENZOVIT, TETRASODIUM -EDTA, SODIUM CHLORIDE, LYNOLINE, PHARMALENE, FRAGARNCE/PERFUME."
+    ,
+    "use":"WET YOU HAIR, TAKE A SMART QUALITY OF SHAMPOO WORK LATHER.WAIT FOR A MINUTE RINSE & REPEAT."
+  },
+  {
+    "id": 3,
+    "name": "Crystal Golden (Amla, Reetha , Shikakai & Flax Seeds)",
+    "price": 210,
+    "img": "/image/crystalgolden.png",
+    "Nam": "C",
+    "des": "A natural hair care product enriched with Amla, Reetha, and Shikakai to promote healthy and shiny hair.",
+    "qu": 1,
+    "qut":"100ml",
+    "feature": "Crystal Golden Shampoo (Amla, Reetha, Shikakai & Flax Seeds)** combines the power of natural ingredients to promote healthy hair. Amla strengthens and nourishes the hair, Reetha cleanses gently, Shikakai soothes the scalp, and Flax Seeds add moisture, leaving the hair soft, shiny, and manageable. Perfect for those seeking a natural solution for hair care.",
+    "ing": "WATER/EAU, SODIUM LAURYL ETHER SULPHATE, SODIUM LAURYL SULPHATE 0%, COCAMIDO- PROPYL BETAINE, COCAMIDE DIETHANOLMINE HYDROLYZED PEARL LIQUID, CALCIUM CARBONATE PEARL POWDER, POLY QUTERNIUN 7, GLYCERIN, SILKY, VITAMIN E, SODIUM BENZOVIT, TETRASODIUM -EDTA, SODIUM CHLORIDE, LYNOLINE, PHARMALENE, FRAGARNCE/PERFUME."
+  ,
+    "use":"WET YOU HAIR, TAKE A SMART QUALITY OF SHAMPOO WORK LATHER.WAIT FOR A MINUTE RINSE & REPEAT."
+  },
+  {
+    "id": 4,
+    "name": "Crystal White (Coconut & Aloe Vera)",
+    "price": 210,
+    "img": "/image/crystalwhite.png",
+    "Nam": "C",
+    "des": "A moisturizing hair care product infused with Coconut and Aloe Vera to nourish and hydrate your hair.",
+    "qu": 1,
+    "qut":"100ml",
+    "feature": "Crystal White Shampoo (Coconut & Aloe Vera)** combines the moisturizing benefits of coconut and the soothing properties of aloe vera. Coconut nourishes and hydrates the hair, promoting softness and shine, while aloe vera helps calm the scalp, reduce dandruff, and promote healthy hair growth. This shampoo is ideal for dry, irritated scalps and helps maintain smooth, manageable hair.",
+    "ing": "WATER/EAU, SODIUM LAURYL ETHER SULPHATE, SODIUM LAURYL SULPHATE 0%, COCAMIDO- PROPYL BETAINE, COCAMIDE DIETHANOLMINE HYDROLYZED PEARL LIQUID, CALCIUM CARBONATE PEARL POWDER, POLY QUTERNIUN 7, GLYCERIN, SILKY, VITAMIN E, SODIUM BENZOVIT, TETRASODIUM -EDTA, SODIUM CHLORIDE, LYNOLINE, PHARMALENE, FRAGARNCE/PERFUME."
+    ,
+    "use":"WET YOU HAIR, TAKE A SMART QUALITY OF SHAMPOO WORK LATHER.WAIT FOR A MINUTE RINSE & REPEAT."
+  },
+  {
+    "id": 5,
+    "name": "Dishwash (With Lemon)",
+    "price": 230,
+    "img": "/image/dish.jpg",
+    "Nam": "D",
+    "des": "A powerful dishwashing liquid with the natural cleaning power of Lemon for a sparkling clean finish.",
+    "qu": 1,
+    "qut":"475ml",
+    "feature":"Dishwash (With Lemon) is a powerful, grease-cutting dishwashing liquid enriched with the natural freshness of lemon. The lemon extract helps to effectively remove tough stains, odors, and grease, leaving your dishes sparkling clean with a fresh, citrusy scent. Its gentle formula is tough on grime but gentle on hands, making dishwashing easier and more efficient.",
+    "ing": "Aqua,Sulfonic acid,Sodium laurylether sulfate,Sodium Cholride,Color,Citric acid,LemonCaustic soda,Fragrance,Sodium hydrooxide,Surfactants ,pH Adjusters,Preservatives",
+    "use":"Apply a small amount of dishwashing liquid to a sponge, scrub dishes to remove grease, and rinse thoroughly with water"
+  },
+  {
+    "id": 6,
+    "name": "Handwash (With Green Apple & Rose Water)",
+    "price":300,
+    "img": "/image/handwsh.jpg",
+    "Nam": "F",
+    "des": "A refreshing handwash enriched with Lemon and Neem to cleanse and purify your skin.",
+    "qu": 1,
+    "feature":"Effectively removes 99.9% of germs, gentle on skin, with a refreshing fragrance and moisturizing formula.",
+    "qut":"450ml",
+    "ing": "Rose Water-Srufactants Sodium Laurylether Sulfate Alpha Olefin Sulfonate Trisodium Phosphate Coca Midopropyl Betaine Apple Cider Vingar. Glycerin Citric Acid, Sodium Chloride Sodium EDTA, Sodium Benzovit Color, Fragrance",
+    "use":"Apply a small amount of handwash, lather thoroughly for 20 seconds, and rinse with clean water."
+  },
+  {
+    "id": 8,
+    "name": "Organic Hair Oil(With Argan,Almond & Onion)",
+    "price": 0,
+    "img": "/image/comingsoon.png",
+    "Nam": "O",
+    "qut":"000ml",
+    "des": "",
+    "qu": 1,
+    "ing": ""
+  }
+]

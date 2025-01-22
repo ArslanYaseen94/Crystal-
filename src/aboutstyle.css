@@ -1,0 +1,98 @@
+/* Global reset for better mobile rendering */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .about-section {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://example.com/restaurant-bg.jpg'); /* Replace with your background image */
+    background-size: cover;
+    background-position: center;
+    /* margin-top: 10px; */
+  }
+  
+  .about-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* background-color: rgba(0, 0, 0, 0.6); Dark overlay */
+   background-color: goldenrod  ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -100px;
+  }
+  
+  .about-content {
+    max-width: 800px;
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .about-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #000000;
+  }
+  
+  .about-description {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    margin-bottom: 20px;
+    color: #000000;
+  }
+  
+  /* Make it responsive for smaller screens */
+  @media (max-width: 768px) {
+    .about-section{
+        margin-top: 35px;
+    }
+    .about-content {
+      max-width: 90%; /* Reduce the width on smaller screens */
+      padding: 15px;
+    }
+  
+    .about-title {
+      font-size: 2rem; /* Smaller title for mobile */
+    }
+  
+    .about-description {
+      font-size: 1rem; /* Adjust font size */
+    }
+  
+    .TypeAnimation {
+      font-size: 1.5em !important; /* Ensure animation text scales on mobile */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .about-title {
+      font-size: 1.8rem; /* Further reduce for very small screens */
+    }
+  
+    .about-description {
+      font-size: 0.9rem;
+    }
+  
+    .TypeAnimation {
+      font-size: 1.2em !important; /* Even smaller font for animation text */
+    }
+  }
+  

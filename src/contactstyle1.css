@@ -1,0 +1,14 @@
+/* contactstyle.css */
+.mdb-input:focus,
+.mdb-textarea:focus {
+  border-color: goldenrod !important; /* Change the border color to goldenrod */
+  box-shadow: 0 0 5px goldenrod !important; /* Optional: Add a shadow effect */
+}
+
+.mdb-input {
+  transition: border-color 0.3s ease; /* Optional: Smooth transition */
+}
+
+.mdb-textarea {
+  transition: border-color 0.3s ease; /* Optional: Smooth transition */
+}

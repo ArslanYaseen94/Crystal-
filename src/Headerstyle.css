@@ -1,0 +1,28 @@
+.uldesign {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.uldesign li{
+margin: 0 20px;
+}
+.uldesign li a{
+    text-decoration: none;
+    /* color: white; */
+}
+.active{
+  color: goldenrod;
+}
+.mobilenav{
+  list-style-type: none;
+  margin-top: 20px;
+}
+.mobilenav li{
+  margin-top: 20px;
+}
+.mobilenav  li a{
+text-decoration: none;
+font-size: 1.4rem;
+}

@@ -1,0 +1,154 @@
+.mobileversion {
+  display: grid;
+  grid-template-columns: repeat(4, 250px); /* For larger screens */
+  gap: 40px;
+  margin-left: 80px;
+  
+}
+.heart:hover {
+  color: red;
+  transform: scale(1.2);
+  transition: all 300ms;
+}
+.search {
+  width: 300px;
+  height: 30px;
+  border-radius: 15px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  padding: 10px;
+  margin: 12px 36.5%;
+  color: black;
+  caret-color: goldenrod;
+  color: goldenrod;
+  font-style: italic;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.search:hover {
+  transform: scale(1.2);
+  transition: ease-in 300ms;
+}
+.search::placeholder {
+  font-style: italic;
+  color: black;
+  color: goldenrod;
+}
+.search:focus {
+  outline: none;
+}
+.hov:hover {
+  transform: scale(1.1);
+  transition: ease-in-out 300ms;
+}
+.active {
+  color: goldenrod;
+}
+.cartbtn:hover {
+  transform: scale(0.9);
+  color: goldenrod;
+  transition: ease-in-out 200ms;
+}
+.fav {
+  color: red;
+}
+.ord:hover {
+  color: white;
+  background-color: black;
+  transform: scale(0.9);
+  transition: ease-in-out 300ms;
+}
+.favmobile {
+  margin-top: 30px;
+  font-size: 120px;
+  font-weight: 800;
+  text-align: center;
+}
+.skel {
+  display: grid;
+  grid-template-columns: repeat(4, 280px); /* For larger screens */
+  gap: 20px;
+  margin-left: 60px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  height: 400px;
+}
+
+@media (max-width: 600px) {
+  .mobileversion {
+    grid-template-columns: repeat(1, 250px); /* For mobile screens */
+    gap: 5px;
+    margin-left: 10%;
+    margin-top: 30px;
+    height: 7%px;
+  }
+  .mob {
+    font-size: "10px";
+    display: "none";
+  }
+  .mobil{
+    display: block;
+  }
+  .search {
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-right: 0;
+    margin-bottom: 0;
+    transform: scale(0.9);
+  }
+  .favmobile {
+    font-size: 70px;
+  }
+  .card-image-container {
+  width: 50%; /* Container width */
+  height: 50%; /* Fixed height of the image container */
+  overflow: hidden; /* Ensures the image doesn't overflow */
+  padding: 05px;
+  margin: 0px
+}
+
+.card-image {
+  width: 100%; /* Let the image width fill the container */
+  height: 100%; /* Let the image height fill the container */
+  object-fit: cover; /* Maintain aspect ratio and crop excess parts */
+  object-position: center; /* Center the image inside the container */
+
+}
+
+  .skel {
+    grid-template-columns: repeat(2, 150px); /* For mobile screens */
+    gap: 20px;
+    margin-left: 5%;
+    margin-top: 40px;
+    height: 800px;
+  }
+  .sese {
+    display: none;
+  }
+  .card {
+    width: 90%; /* Make the card take 90% of the screen width */
+    margin: 10px auto; /* Center the cards and add space between them */
+  }
+
+  .card-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Ensure the container takes full width */
+    height: 300px; /* Set a fixed height for the image container */
+    overflow: hidden; /* Hide any overflow from the image */
+  }
+
+  .card img,
+  .card .LazyLoadImage {
+    width: 100%; /* Make the image take full width */
+    height: 100%; /* Make the image take full height */
+    object-fit: cover; /* Ensure the image covers the entire container */
+  }
+
+  .card h3, .card p {
+    text-align: center;
+    color: rgb(231, 226, 216);
+    /* Center-align the text */
+  }
+}
